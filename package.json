@@ -1,0 +1,22 @@
+{
+  "name": "@kimgh06/is-even",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimgh06/isevenpackage.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "kimgh06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimgh06/isevenpackage/issues"
+  },
+  "homepage": "https://github.com/kimgh06/isevenpackage#readme"
+}
